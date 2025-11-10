@@ -8,7 +8,7 @@ While I’ve worked across a wide range of technologies, I still proudly call my
 
 My passion lies in **planning and delivering secure, scalable software solutions** for complex client projects. Having worked across multiple domains — from infrastructure and backend systems to blockchain and compliance automation — I’ve built up a **broad and deep technical toolkit**, allowing me to connect the dots between different disciplines.
 
-Think of me as a *Swiss Army knife* for Web3 technology - bridging development, security, and compliance.
+Think of me as a *Swiss Army knife* for Web3 technology — bridging development, security, and compliance.
 
 🧠 Currently exploring **Zero-Knowledge KYC attestations**, **cross-chain security automation**, and **real-time risk intelligence** within the [SolidProof TrustNet](https://app.solidproof.io) ecosystem.
 
@@ -26,14 +26,30 @@ Think of me as a *Swiss Army knife* for Web3 technology - bridging development, 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Forge](https://img.shields.io/badge/Laravel%20Forge-2D3748?logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Forge](https://img.shields.io/badge/Laravel%20Forge-2D3748?logo=laravel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-F58020?logo=freebsd&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
+
+---
+
+While I’ve worked across a wide range of technologies, I still proudly call myself a **PHP enthusiast** — though I also enjoy working with **JavaScript/TypeScript**, **Rust**, and **Solidity**.
+
+I work exclusively with **macOS** and **Linux** — open source and transparency are at the core of my philosophy.  
+My infrastructure stack relies on **OPNsense**, **Proxmox**, and **lightweight Linux environments** for maximum control, privacy, and security.  
+
+> *"If you can't inspect it, you can't trust it."* — My view on closed systems and Web3 security.
 
 ---
 
@@ -53,6 +69,7 @@ Think of me as a *Swiss Army knife* for Web3 technology - bridging development, 
 - Cross-Chain Infrastructure & Bridge Security  
 - Security Scoring & Threat Intelligence  
 - Backend Architecture (Laravel, NestJS, Node.js)  
+- Infrastructure & Security Stack (OPNsense, Proxmox, NixOS, Ubuntu)  
 - Cloud & DevOps (Forge, Docker, Kubernetes)
 
 ---
