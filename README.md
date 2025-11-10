@@ -44,8 +44,6 @@ Think of me as a *Swiss Army knife* for Web3 technology — bridging development
 
 ---
 
-While I’ve worked across a wide range of technologies, I still proudly call myself a **PHP enthusiast** — though I also enjoy working with **JavaScript/TypeScript**, **Rust**, and **Solidity**.
-
 I work exclusively with **macOS** and **Linux** — open source and transparency are at the core of my philosophy.  
 My infrastructure stack relies on **OPNsense**, **Proxmox**, and **lightweight Linux environments** for maximum control, privacy, and security.  
 
