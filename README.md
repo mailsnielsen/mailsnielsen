@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Mails Nielsen  
 
-**Founder & CEO of [SolidProof.io](https://solidproof.io)** — a blockchain security firm helping Web3 projects earn trust through **smart contract audits, KYC, and automated on-chain verification.**
+Founder & CEO of [SolidProof.io](https://solidproof.io) — a blockchain security firm helping Web3 projects earn trust through smart contract audits, KYC, and automated on-chain verification.
 
-I’ve been working in IT since **2011**, starting out as a **DevOps Engineer and IT Consultant**, later evolving into a **Full-Stack Developer** and, for the past five years, focusing on **Web3, fintech, and cybersecurity**.
+I’ve been working in IT since 2011, starting out as a DevOps Engineer and IT Consultant, later evolving into a Full-Stack Developer and, for the past five years, focusing on Web3, fintech, and cybersecurity.
 
-While I’ve worked across a wide range of technologies, I still proudly call myself a **PHP enthusiast** — though I also enjoy working with **JavaScript/TypeScript**, **Rust**, and **Solidity**.
+While I’ve worked across a wide range of technologies, I still proudly call myself a PHP enthusiast — though I also enjoy working with JavaScript/TypeScript, Rust, and Solidity.
 
-My passion lies in **planning and delivering secure, scalable software solutions** for complex client projects. Having worked across multiple domains — from infrastructure and backend systems to blockchain and compliance automation — I’ve built up a **broad and deep technical toolkit**, allowing me to connect the dots between different disciplines.
+My passion lies in planning and delivering secure, scalable software solutions for complex client projects. Having worked across multiple domains — from infrastructure and backend systems to blockchain and compliance automation — I’ve built up a broad and deep technical toolkit, allowing me to connect the dots between different disciplines.
 
-Think of me as a *Swiss Army knife* for Web3 technology — bridging development, security, and compliance.
+Think of me as a Swiss Army knife for Web3 technology — bridging development, security, and compliance.
 
-🧠 Currently exploring **Zero-Knowledge KYC attestations**, **cross-chain security automation**, and **real-time risk intelligence** within the [SolidProof TrustNet](https://app.solidproof.io) ecosystem.
+🧠 Currently exploring Zero-Knowledge KYC attestations, cross-chain security automation, and real-time risk intelligence within the [SolidProof TrustNet](https://app.solidproof.io) ecosystem.
 
 ---
 
@@ -44,10 +44,10 @@ Think of me as a *Swiss Army knife* for Web3 technology — bridging development
 
 ---
 
-I work exclusively with **macOS** and **Linux** — open source and transparency are at the core of my philosophy.  
-My infrastructure stack relies on **OPNsense**, **Proxmox**, and **lightweight Linux environments** for maximum control, privacy, and security.  
+I work exclusively with macOS and Linux — open source and transparency are at the core of my philosophy.  
+My infrastructure stack relies on OPNsense, Proxmox, and lightweight Linux environments for maximum control, privacy, and security.  
 
-> *"If you can't inspect it, you can't trust it."* — My view on closed systems and Web3 security.
+> "If you can't inspect it, you can't trust it." — My view on closed systems and Web3 security.
 
 ---
 
@@ -83,4 +83,4 @@ My infrastructure stack relies on **OPNsense**, **Proxmox**, and **lightweight L
 
 ### 🧠 Motto
 
-*Always learning. Always building. Always verifying.* 🔒
+Always learning. Always building. Always verifying. 🔒
